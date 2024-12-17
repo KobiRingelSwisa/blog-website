@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend of the blog-website app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kobi Ringel Swisa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
